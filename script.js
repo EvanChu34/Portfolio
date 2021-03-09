@@ -39,16 +39,16 @@ dadPageBtn.addEventListener("click", function(){
     location.href = "https://aqueous-meadow-09339.herokuapp.com/";
 });
 
-passGitBtn.addEventListener("click", function(){
+dadGitBtn.addEventListener("click", function(){
     location.href = "https://github.com/puentebravo/project2";
 });
 
 trackerPageBtn.addEventListener("click", function(){
-    location.href = "https://github.com/EvanChu34/EmployeeTracker";
+    location.href = "https://evanchu34.github.io/EmployeeTracker/";
 });
 
 trackerGitBtn.addEventListener("click", function(){
-    location.href = "https://evanchu34.github.io/EmployeeTracker/";
+    location.href = "https://github.com/EvanChu34/EmployeeTracker";
 });
 
 burgerPageBtn.addEventListener("click", function(){
